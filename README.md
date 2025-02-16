@@ -17,7 +17,7 @@ MazeKeeper is a thrilling Unity-based game where players take on the role of Anu
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/junyaokh822/MazeKeeper.git
-   Open the project in Unity:
+   
 2. Open the project in Unity:
 - Ensure you have Unity installed (version 2022.3.18f1 or later).
 
